@@ -1,4 +1,4 @@
-name = "dispoflare"
+name = "dispoflare-1"
 
 # workers_dev = true
 main = "workers/index.ts"
